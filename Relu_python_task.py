@@ -7,7 +7,7 @@ import json
 import time
 
 chrome_options = Options()
-driver = webdriver.Chrome('chromedriver.exe',chrome_options=chrome_options)
+driver = webdriver.Chrome('Relu_Python_Task/chromedriver',chrome_options=chrome_options)
 
 products = []
 
