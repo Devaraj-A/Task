@@ -1,7 +1,9 @@
 # Python Task
 # Relu
 # Technologies : Python latest, BS4/Selenium, requests.
-I solved the problem by using Python in **Selenium**, Chrome **WebDriver** to collect data **XPATH** from **website**, and then figuring out scrnories to extract the exact **price**.
+1. I did solved the problem by using Python in **Selenium**.
+2. I used Chrome **WebDriver** to collect data **XPATH** from **website**.
+3. I did figure out scenarios to extract the exact **price**.
 
 # Bonus Task
 
