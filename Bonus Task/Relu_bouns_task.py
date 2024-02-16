@@ -10,7 +10,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 import time
 
 chrome_options = Options()
-driver = webdriver.Chrome('/home/daruchamy/Relu_Python_Task/chromedriver',chrome_options=chrome_options)
+driver = webdriver.Chrome('Relu_Python_Task/chromedriver',chrome_options=chrome_options)
 driver.get('https://www.amazon.com/errors/validateCaptcha')
 while True:
     try:
